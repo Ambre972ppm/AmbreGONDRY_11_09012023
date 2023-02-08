@@ -1,0 +1,10 @@
+.banner-img img {
+    border-radius: 30px;
+}
+
+.banner-img-quote {
+    position: absolute;
+    font-size: 48px;
+    font-weight: 500;
+    color: #FFFFFFFF;
+}
