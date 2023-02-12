@@ -1,5 +1,5 @@
 import whitelogo from '../../assets/logos/whitelogo.svg'
-import '../../styles/Header.css'
+import '../../styles/Footer.css'
 
 function Footer() {
     return (<div className="kaza-footer">
